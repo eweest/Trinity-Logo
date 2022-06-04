@@ -21,5 +21,3 @@
 
 # Наша группа VK
 **[TRINITY GTA Mods](https://vk.com/gtatrinitymods)**
-...
-Текст
