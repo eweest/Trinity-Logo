@@ -18,7 +18,7 @@
 `/logo (up)date` - Включить/Выключить автообновление<br>
 
 # Изображение
-![IMG](https://sun9-59.userapi.com/s/v1/if2/RY-SScPlcdo4teXd6plUwVdSHrYHRDVtxPyXJoydLANv3DRdqwnwPiGoVfRV_vhYp5ERD0ge7T6TWvh3QDRPFWK3.jpg?size=1920x1080&quality=95&type=album)
+![IMG](https://user-images.githubusercontent.com/34632663/173184588-13f3457d-801c-405d-b59c-7d1ed70da36e.png)
 
 # Наша группа VK
 **[TRINITY GTA Mods](https://vk.com/gtatrinitymods)**
