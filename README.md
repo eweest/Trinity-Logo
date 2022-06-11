@@ -15,6 +15,7 @@
 `/logo type [1-4]` - Изменение стиля показателей<br>
 `/logo (b)order` - Показать/Скрыть обводку<br>
 `/logo view(vw)` - Показать/Скрыть<br>
+`/logo (up)date` - Включить/Выключить автообновление<br>
 
 # Изображение
 ![IMG](https://sun9-59.userapi.com/s/v1/if2/RY-SScPlcdo4teXd6plUwVdSHrYHRDVtxPyXJoydLANv3DRdqwnwPiGoVfRV_vhYp5ERD0ge7T6TWvh3QDRPFWK3.jpg?size=1920x1080&quality=95&type=album)
